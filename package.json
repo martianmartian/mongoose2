@@ -1,0 +1,7 @@
+{
+  "name": "mongoose2",
+  "main": "mongoose2.js",
+  "dependencies": {
+    "mongoose": "*"
+  }
+}
